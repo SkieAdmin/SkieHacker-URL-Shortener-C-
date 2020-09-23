@@ -1,0 +1,10 @@
+C:\Users\kerle\source\repos\SkieHacker URL Shortener\SkieHacker URL Shortener\bin\Debug\SkieHacker URL Shortener.exe.config
+C:\Users\kerle\source\repos\SkieHacker URL Shortener\SkieHacker URL Shortener\bin\Debug\SkieHacker URL Shortener.exe
+C:\Users\kerle\source\repos\SkieHacker URL Shortener\SkieHacker URL Shortener\bin\Debug\SkieHacker URL Shortener.pdb
+C:\Users\kerle\source\repos\SkieHacker URL Shortener\SkieHacker URL Shortener\obj\Debug\SkieHacker_URL_Shortener.Form1.resources
+C:\Users\kerle\source\repos\SkieHacker URL Shortener\SkieHacker URL Shortener\obj\Debug\SkieHacker_URL_Shortener.Properties.Resources.resources
+C:\Users\kerle\source\repos\SkieHacker URL Shortener\SkieHacker URL Shortener\obj\Debug\SkieHacker URL Shortener.csproj.GenerateResource.cache
+C:\Users\kerle\source\repos\SkieHacker URL Shortener\SkieHacker URL Shortener\obj\Debug\SkieHacker URL Shortener.csproj.CoreCompileInputs.cache
+C:\Users\kerle\source\repos\SkieHacker URL Shortener\SkieHacker URL Shortener\obj\Debug\SkieHacker URL Shortener.exe
+C:\Users\kerle\source\repos\SkieHacker URL Shortener\SkieHacker URL Shortener\obj\Debug\SkieHacker URL Shortener.pdb
+C:\Users\kerle\source\repos\SkieHacker URL Shortener\SkieHacker URL Shortener\obj\Debug\SkieHacker URL Shortener.csprojAssemblyReference.cache
